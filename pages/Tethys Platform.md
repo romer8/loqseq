@@ -14,6 +14,7 @@
 		- `PGPASSWORD=<POSTGRES_PASSWORD> tethys db configure --username <TETHYS_DB_USERNAME> --password <TETHYS_DB_PASSWORD> --superuser-name <TETHYS_DB_SUPER_USERNAME> --superuser-password <TETHYS_DB_SUPER_PASSWORD> --portal-superuser-name <PORTAL_SUPERUSER_USERNAME> --portal-superuser-email '<PORTAL_SUPERUSER_EMAIL>' --portal-superuser-pass <PORTAL_SUPERUSER_PASSWORD>`
 	-
 - Integrate [[React.js]]
+collapsed:: true
 	- Link Ref [here](https://mattsegal.dev/django-react.html)
 	- Requirements: install [[node.js]] and [[npm]]
 	- Create a new folder called frontend, a src foldder inside this one, and a JS file: `frontend/src/index.js`
@@ -111,5 +112,4 @@
 		  Routing and code-splitting
 		  Authentication
 	-
--
 -
