@@ -3,7 +3,8 @@
 	- Clone a version of the Tethys Platform: You will porbably need ((626064f7-e8c2-47a9-a645-9f5edb63a9a3))
 	- You will need to do add environment variables to the environment.yml
 		- Add at the end of the file the following
-			- `TETHYS_HOME: <desired_path>`
+			- ```yml
+			  TETHYS_HOME: <desired_path>```
 	- Create an [[conda]] environment with [[mamba]] using the environment.yml
 		- `mamba env create -f environment.yml`
 	- Run a [[PostgreSQL]] container.
