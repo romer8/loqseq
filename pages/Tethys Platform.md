@@ -5,7 +5,7 @@
 		- Add at the end of the file the following
 			- `TETHYS_HOME: <desired_path>`
 	- Create an [[conda]] environment with [[mamba]] using the environment.yml
-		- `mamba create env -f environment.yml`
+		- `mamba env create -f environment.yml`
 	- Run a [[PostgreSQL]] container.
 		- ((626357d7-2b13-4902-89f7-94a73712b7d6))
 	- Edit the portal_config.yml to have the same configuration as the [[PostgreSQL]] container with the following command [tethys_documentation](http://docs.tethysplatform.org/en/stable/installation/production/manual/configuration/basic/database.html)
