@@ -4,7 +4,10 @@
 	- You will need to do add environment variables to the environment.yml
 		- Add at the end of the file the following
 			- ```yml
-			  TETHYS_HOME: <desired_path>```
+			  variables:
+			    TETHYS_HOME: <desired_path>`
+			  ```
+			-
 	- Create an [[conda]] environment with [[mamba]] using the environment.yml
 		- `mamba env create -f environment.yml`
 	- Run a [[PostgreSQL]] container.
