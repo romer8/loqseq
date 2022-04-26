@@ -1,0 +1,5 @@
+- map
+	- updateSize
+		- setTimeout(function(){ map.updateSize(); }, 200);
+	- Fit a a map to the current layer extent
+		- map.getView().fit(vectorSource.getExtent());

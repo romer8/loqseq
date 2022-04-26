@@ -1,0 +1,7 @@
+- Sending data from server to Localhost
+	-
+- Sending data from localhost to server
+	- `scp <path_to_local_file> <user_server>@<Server>:<path_to_save_in_server>`
+-
+-
+-
