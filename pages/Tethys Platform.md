@@ -112,4 +112,6 @@ collapsed:: true
 		  Routing and code-splitting
 		  Authentication
 	-
--
+- Common Error:
+	- line 6, in utc_tzinfo_factory raise AssertionError("database connection isn't set to UTC") AssertionError: database connection isn't set to UTC.
+	-
