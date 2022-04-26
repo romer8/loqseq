@@ -33,7 +33,7 @@
 		    entry: {
 		      main: path.resolve(__dirname, 'src/index.js'),
 		    },
-		    mode: 'development',
+		    mode: 'development',fundacion march incas
 		    // Where Webpack spits out the results (the myapp static folder)
 		    output: {
 		      path: path.resolve(__dirname, '../backend/myapp/static/myapp/'),
