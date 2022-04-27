@@ -8,4 +8,6 @@ tags: Python, R
 	- https://github.com/conda-forge/r-base-feedstock/issues/129
 	- https://github.com/conda-forge/r-base-feedstock/pull/65
 	- https://github.com/conda-forge/r-rjags-feedstock/issues/6
-	-
+- Install Packages
+	- From file
+	- `conda `
