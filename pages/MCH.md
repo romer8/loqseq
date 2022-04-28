@@ -1,5 +1,23 @@
-- Installation in [[Windows]] Server
-	- Steps:
+- # Installation in [[Windows]] Server
+	- ## Steps:
+		- ### Configuration of the computers & Installation environment
+collapsed:: true
+			- Login with full administrator rights
+			- Check if your computer has a 32 or 64-bit processor
+			- Create shortcuts to ODBC,services and control panel (This step is not necessary)
+			- Set regional settings, decimals should be defined with dots (.)
+			- Turn Wi-Fi off or disconnect the computer from internet
+			- Turn Antivirus off
+			- Disable Firewall
+		- ### Installation of MCH
+			- Open MCHInstalacion by running INstalMCH.exe
+				- ![image.png](../assets/image_1651167341473_0.png)
+				- #### ***Notes***
+					- **Save in the root, to avoid long path**
+					- **No space in the name of the folder**
+					- ![image.png](../assets/image_1651167790161_0.png)
+				- Select English for the language
+				- ==*Optional*==
 -
 - Ref Links:
 - MCH Version 2018 Latest version of MCH
