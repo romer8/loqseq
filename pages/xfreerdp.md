@@ -1,6 +1,6 @@
-- Connect to Windows
-  id:: 624f0859-51e8-4a92-88a2-20ecc64bdf67
+- Connect to [[Windows]]
   background-color:: #497d46
+  id:: 624f0859-51e8-4a92-88a2-20ecc64bdf67
   ```bash
     xfreerdp /f /u:USERNAME /p:PASSWORD /v:HOST[:PORT]
   ```
