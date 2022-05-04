@@ -1,0 +1,2 @@
+- Erase all the subdirectories within `rm -R -- */`
+-
